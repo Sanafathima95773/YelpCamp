@@ -1,49 +1,59 @@
-YelpCamp
-YelpCamp is a full-stack website project where users can create and review campgrounds. In order to review or create a campground, you must have an account. This project is a part of Colt Steele's web dev bootcamp course on udemy.
+# YelpCamp
+YelpCamp is a full-stack website project where users can create and review campgrounds.
+In order to review or create a campground, you must have an account. This project is a part of Colt Steele's web dev bootcamp course on udemy.
 
 This project is being created created using Node.js, Express, MongoDB, and Bootstrap. Passport.js is used to handle authentication.
 
-Functionalities
-Everyone can view the camps and reviews without signing up or logging in.
 
-The user will have to login to edit the campground details or any comments.
+## Functionalities
 
-The user can only edit/delete the campgrounds and comments that they have added.
+>Everyone can view the camps and reviews without signing up or logging in.
 
-All the data will pe persistent and is stored in the awazon cloud.
+>The user will have to login to edit the campground details or any comments.
 
-Technologies Used:
-HTML5 - markup language for creating web pages and web applications
+>The user can only edit/delete the campgrounds and comments that they have added.
 
-CSS3 - used for describing the presentation of a document written in a markup language
+>All the data will pe persistent and is stored in the awazon cloud.
 
-Bootstrap - free and open-source front-end web framework for designing websites and web applications quickly
+## Technologies Used:
 
-jQuery - cross-platform JavaScript library designed to simplify the client-side scripting of HTML
+>HTML5 - markup language for creating web pages and web applications
 
-DOM Manipulation - is a platform and language-neutral interface that allows programs and scripts to dynamically access and update the content, structure, and style of a document
+>CSS3 - used for describing the presentation of a document written in a markup language
 
-Node.js - pen-source, cross-platform JavaScript run-time environment for executing JavaScript code server-side
+>Bootstrap - free and open-source front-end web framework for designing websites and web applications quickly
 
-Express.js - for building web applications and APIs and connecting middleware
+>jQuery - cross-platform JavaScript library designed to simplify the client-side scripting of HTML
 
-REST - REST (REpresentational State Transfer) is an architectural style for developing web services
+>DOM Manipulation - is a platform and language-neutral interface that allows programs and scripts to dynamically access and update the content, structure, and style of a document
 
-MongoDB - open-source cross-platform document-oriented NoSQL database program to store details like users info, campgrounds info and comments
+>Node.js - pen-source, cross-platform JavaScript run-time environment for executing JavaScript code server-side
 
-PassportJS - authentication middleware for Node.js. Extremely flexible and modular, Passport can be unobtrusively dropped in to any Express-based web application
+>Express.js - for building web applications and APIs and connecting middleware
 
-Data Associations - associating user data with the respective campgrounds and comments using reference method
+>REST - REST (REpresentational State Transfer) is an architectural style for developing web services
 
-Heroku - cloud platform as a service used as a web application deployment model
+>MongoDB - open-source cross-platform document-oriented NoSQL database program to store details like users info, campgrounds info and comments
 
-AWS - mongodb is hosted on amazon ec2 instance
+>PassportJS - authentication middleware for Node.js. Extremely flexible and modular, Passport can be unobtrusively dropped in to any Express-based web application
 
-Screenshots
-HomePage home
+>Data Associations - associating user data with the respective campgrounds and comments using reference method
 
-All Campgrounds All campgrounds
+>Heroku - cloud platform as a service used as a web application deployment model
 
-->Single Campground ShowPage showPage
+>AWS - mongodb is hosted on amazon ec2 instance
 
-->Login & Register page login,register
+## Screenshots
+>HomePage
+![home](https://user-images.githubusercontent.com/51289274/113733448-1a3ac300-9718-11eb-9fc7-defb8d2cd9c1.png)
+
+>All Campgrounds
+![All campgrounds](https://user-images.githubusercontent.com/51289274/113733438-173fd280-9718-11eb-8a0d-8e13f1ab3d45.png)
+
+->Single Campground ShowPage
+![showPage](https://user-images.githubusercontent.com/51289274/113733465-1e66e080-9718-11eb-9ffe-8b047640942a.png)
+
+->Login & Register page
+![login,register](https://user-images.githubusercontent.com/51289274/113734300-d8f6e300-9718-11eb-801e-5cb4698a1560.png)
+
+
